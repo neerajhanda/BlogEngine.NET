@@ -2231,7 +2231,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BlogEngine.Core\BlogEngine.Core.csproj">
+    <ProjectReference Include="BlogEngine.Core\BlogEngine.Core.csproj">
       <Project>{9ed9914a-fb6e-4d21-8c71-9122e8c3076b}</Project>
       <Name>BlogEngine.Core</Name>
     </ProjectReference>
