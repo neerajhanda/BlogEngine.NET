@@ -101,7 +101,7 @@
       <Project>{9ed9914a-fb6e-4d21-8c71-9122e8c3076b}</Project>
       <Name>BlogEngine.Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\BlogEngine.NET\BlogEngine.NET.csproj">
+    <ProjectReference Include="..\BlogEngine.NET.csproj">
       <Project>{5f3c7419-fa8b-4563-850a-c56b324cf18a}</Project>
       <Name>BlogEngine.NET</Name>
     </ProjectReference>
